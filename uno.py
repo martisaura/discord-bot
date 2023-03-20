@@ -2,7 +2,7 @@ import hikari
 import lightbulb
 import random
 
-botardo = hikari.GatewayBot("MTAzMjY2OTM4Mjg3NjM0ODQ0Nw.GN8r3p.NFoFWwadjwiyeItYmJvVy8FWQvwnRz4bNkNOtw")
+
 plugin2 = lightbulb.Plugin('Uno')
 jugadors = {}
 context = []
